@@ -18,10 +18,11 @@ Print the inverse of 'a'
 Stop the program
 
 ## Program:
+``````
 #Program to find the inverse of a matrix.
 #Developed by: SHIVRAJ R
 #RegisterNumber: 23013397
-``````
+
 import numpy as np
 a=[[1,0,3],[-1,2,-2],[2,3,-1]]
 B=np.linalg.inv(a)
